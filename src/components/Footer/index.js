@@ -17,16 +17,16 @@ const Footer = () => {
                         <WebsiteRights>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</WebsiteRights>
 
                         <SocialIcons>
-                            <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+                            <SocialIconLink href="https://www.facebook.com/infinitaorg" target="_blank" aria-label="Facebook">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+                            <SocialIconLink href="ttps://instagram.com/infinitaorg" target="_blank" aria-label="Instagram">
                                 <FaInstagram />
                             </SocialIconLink>
                             <SocialIconLink href="/" target="_blank" aria-label="Twitter">
                                 <FaTwitter />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank" aria-label="LinkedIn">
+                            <SocialIconLink href="https://www.linkedin.com/company/infinitaorg/" target="_blank" aria-label="LinkedIn">
                                 <FaLinkedin />
                             </SocialIconLink>
                         </SocialIcons>
