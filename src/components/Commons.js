@@ -42,8 +42,9 @@ export const Wrapper = styled.div`
 `
 
 export const HeadingH1 = styled.h1`
-    font-size: 2.5rem;
-    color: #fff;   
+    font-size: 2rem;
+    color: #fff;  
+    font-weight: 600 !important; 
     margin-bottom: 20px;
 
     @media screen and (max-width: 480px) {

@@ -7,7 +7,7 @@ const Schedule = () => {
     return (
         <>
             <Container id="schedule" className="pt-10">
-                <HeadingH1 className='mb-8'>Schedule</HeadingH1>
+                <HeadingH1 className='mb-8'>Schedule for the event</HeadingH1>
                 <ScheduleWrapper>
                     <CustomizedTimeline />
                 </ScheduleWrapper>

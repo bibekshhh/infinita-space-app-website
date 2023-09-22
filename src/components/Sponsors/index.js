@@ -5,7 +5,7 @@ const Sponsors = () => {
     return (
         <>
             <Container id="sponsors">
-                <HeadingH1>Sponsors</HeadingH1>
+                <HeadingH1 className='font-bold'>Sponsors</HeadingH1>
                 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-8 mx-auto">
                 <div class="mx-auto text-center mb-6 md:mb-12">
                     <h2 class="text-md font-semibold md:text-xl md:leading-tight text-gray-800 dark:text-gray-200">Trusted by Open Source, enterprise, and more than 99,000 of you</h2>

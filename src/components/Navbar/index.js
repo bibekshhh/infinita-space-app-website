@@ -4,7 +4,7 @@ import {
     Nav, NavbarContainer, NavLogo, MobileIcon,
     NavMenu, NavItem, NavLinks
 } from "./NavbarElements"
-import Logo from "../Logo"
+import Logo from "./Logo_Final.png"
 import { animateScroll as scroll } from "react-scroll";
 import Announcement from '../Announcement';
 
@@ -35,7 +35,7 @@ const Navbar = ({ toggle }) => {
             {/* <Announcement /> */}
             <NavbarContainer>
                 <NavLogo to="/" onClick={toggleHome}>
-                    <Logo />
+                    <img src={Logo} alt='logo' style={{width: 150}}/>
                 </NavLogo>
                 <MobileIcon onClick={toggle}>
                     <FaBars />
@@ -111,16 +111,7 @@ const Navbar = ({ toggle }) => {
                             activeClass="active"
                         >FAQs</NavLinks>
                     </NavItem>
-                    <NavItem>
-                        <NavLinks to="team"
-                            smooth="true"
-                            duration={500}
-                            spy={true}
-                            exact="true"
-                            offset={-80}
-                            activeClass="active"
-                        >Team</NavLinks>
-                    </NavItem>
+                   
                 </NavMenu>
             </NavbarContainer>
         </Nav>
