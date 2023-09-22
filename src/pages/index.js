@@ -35,10 +35,8 @@ const Home = () => {
             <Schedule />
             <ProblemStatements />
             <Prizes />
-            <Sponsors />
             <Judges />
             <FAQs />
-            <Team />
             <Footer />
         </>
     )
