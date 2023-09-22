@@ -4,7 +4,7 @@ const HeroSection = () => {
 
     return(
         <>
-        <div class="pt-4 md:pt-20 lg:pt-28 relative before:opacity-[.1] overflow-hidden before:absolute before:top-0 before:left-1/2 before:bg-no-repeat before:bg-top before:bg-cover before:w-full before:h-full before:-z-[1] before:transform before:-translate-x-1/2 before:bg-[url('https://i.ibb.co/DRRGgXZ/Website-Art.jpg')]">
+        <div class="pt-4 md:pt-20 lg:pt-28 relative before:opacity-[.075] overflow-hidden before:absolute before:top-0 before:left-1/2 before:bg-no-repeat before:bg-top before:bg-cover before:w-full before:h-full before:-z-[1] before:transform before:-translate-x-1/2 before:bg-[url('https://i.ibb.co/DRRGgXZ/Website-Art.jpg')]">
         <div class="max-w-[85rem] h-[95vh] lg:h-[85vh] mx-auto px-4 sm:px-6 lg:px-8 pt-36 ">
 
             <CountDown />

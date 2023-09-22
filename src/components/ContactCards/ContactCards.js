@@ -3,7 +3,7 @@ const ContactCards = () => {
         <>
         <div class="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
-            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="#">
+            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="https://discord.gg/Cj7SpDaV">
             <div class="p-4 md:p-5">
                 <div class="flex">
                 <svg class="mt-1 shrink-0 w-5 h-5 text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -22,7 +22,7 @@ const ContactCards = () => {
             </div>
             </a>
 
-            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="#">
+            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="https://www.spaceappschallenge.org/resources/">
             <div class="p-4 md:p-5">
                 <div class="flex">
                 <svg class="mt-1 shrink-0 w-5 h-5 text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -42,7 +42,7 @@ const ContactCards = () => {
             </div>
             </a>
 
-            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="#">
+            <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="https://discord.gg/Cj7SpDaV">
             <div class="p-4 md:p-5">
                 <div class="flex">
                 <svg class="mt-1 shrink-0 w-5 h-5 text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -54,7 +54,7 @@ const ContactCards = () => {
                     Email us
                     </h3>
                     <p class="text-sm text-gray-500">
-                    Reach us at <span class="text-blue-600 font-medium dark:text-blue-500">info@site.com</span>
+                    Reach us at <span class="text-blue-600 font-medium dark:text-blue-500">infinita@gmail.com</span>
                     </p>
                 </div>
                 </div>

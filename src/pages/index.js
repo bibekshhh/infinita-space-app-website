@@ -33,8 +33,9 @@ const Home = () => {
             <Schedule />
             <ProblemStatements />
             <Prizes />
-            <Judges />
+            {/* <Judges /> */}
             <FAQs />
+            <ContactCards />
             <Footer />
         </>
     )

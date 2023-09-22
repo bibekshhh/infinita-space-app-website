@@ -81,7 +81,7 @@ const Navbar = ({ toggle }) => {
                             activeClass="active"
                         >Prizes</NavLinks>
                     </NavItem>
-                    <NavItem>
+                    {/* <NavItem>
                         <NavLinks to="sponsors"
                             smooth="true"
                             duration={500}
@@ -90,8 +90,8 @@ const Navbar = ({ toggle }) => {
                             offset={-80}
                             activeClass="active"
                         >Sponsors</NavLinks>
-                    </NavItem>
-                    <NavItem>
+                    </NavItem> */}
+                    {/* <NavItem>
                         <NavLinks to="speakers"
                             smooth="true"
                             duration={500}
@@ -100,7 +100,7 @@ const Navbar = ({ toggle }) => {
                             offset={-80}
                             activeClass="active"
                         >Speakers</NavLinks>
-                    </NavItem>
+                    </NavItem> */}
                     <NavItem>
                         <NavLinks to="faqs"
                             smooth="true"

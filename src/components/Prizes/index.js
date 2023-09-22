@@ -92,11 +92,10 @@ const Prizes = () => {
                   </svg>
                   <div class="ml-5 sm:ml-8">
                     <h3 class="text-base sm:text-lg font-semibold text-gray-800 dark:text-gray-200">
-                      Guidance
+                      Prizes
                     </h3>
                     <p class="mt-1 text-gray-600 dark:text-gray-400">
-                      Our team will be available to guide you 24/7 throughout
-                      the hackathon.
+                      Winners will be awarded with exciting prizes and gift hampers.
                     </p>
                   </div>
                 </div>
