@@ -13,7 +13,7 @@ export const FooterWrap = styled.div`
     align-items: center;
     max-width: 1100px;
     margin: 0 auto;
-    background-color: #101522;
+    background-color: #161c26;
     border-radius: 20px 20px 0 0;
 `
 

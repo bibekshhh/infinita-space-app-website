@@ -14,8 +14,7 @@ import { homeObjOne } from '../components/InfoSection/Data';
 import Sponsors from '../components/Sponsors';
 import Judges from '../components/Judges';
 import FAQs from '../components/FAQs';
-import Team from '../components/Team';
-import CountDown from '../components/Countdown/CountdownMain.js';
+import ContactCards from '../components/ContactCards/ContactCards';
 
 const Home = () => {
 
@@ -31,7 +30,6 @@ const Home = () => {
             <Navbar toggle={toggle} />
             <HeroSection />
             <InfoSection {...homeObjOne} />
-
             <Schedule />
             <ProblemStatements />
             <Prizes />
