@@ -1,19 +1,20 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    height: 900px;
+    min-height: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background: #010606;
+    padding-bottom: 30px;
 
     @media screen and (max-width: 768px) {
-        height: 1100px;
+        height: 1000px;
     }
 
     @media screen and (max-width: 480px) {
-        height: 1300px;
+        height: 1000px;
     }
 `
 

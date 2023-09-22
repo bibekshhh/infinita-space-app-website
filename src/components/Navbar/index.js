@@ -92,14 +92,14 @@ const Navbar = ({ toggle }) => {
                         >Sponsors</NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks to="judges"
+                        <NavLinks to="speakers"
                             smooth="true"
                             duration={500}
                             spy={true}
                             exact="true"
                             offset={-80}
                             activeClass="active"
-                        >Judges</NavLinks>
+                        >Speakers</NavLinks>
                     </NavItem>
                     <NavItem>
                         <NavLinks to="faqs"

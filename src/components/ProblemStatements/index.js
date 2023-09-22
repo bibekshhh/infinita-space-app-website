@@ -4,10 +4,10 @@ import { Container, Wrapper, HeadingH1 } from "../Commons";
 const ProblemStatements = () => {
     return (
         <>
-            <Container id="problem-statements">
+            <Container id="problem-statements" className="mt-10">
                 <HeadingH1>Problem Statements</HeadingH1>
                 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-                <div class="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-6 md:gap-10">
+                <div class="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-6 md:gap-10 mt-[-30px]">
                     <div class="w-full h-full bg-white shadow-lg rounded-lg p-5 dark:bg-[#161c26]">
                     <div class="flex items-center gap-x-4 mb-3">
                         <div class="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-4 border-blue-50 bg-blue-100 dark:border-blue-900 dark:bg-blue-800">

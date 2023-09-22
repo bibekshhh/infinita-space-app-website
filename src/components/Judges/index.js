@@ -4,8 +4,8 @@ import { Container, HeadingH1, Wrapper } from "../Commons"
 const Judges = () => {
     return (
         <>
-            <Container id="judges">
-                <HeadingH1>Judges</HeadingH1>
+            <Container id="speakers">
+                <HeadingH1>Speakers</HeadingH1>
                 <Wrapper />
             </Container>
         </>
