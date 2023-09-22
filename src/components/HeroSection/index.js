@@ -1,10 +1,13 @@
+import CountDown from "../Countdown/CountdownMain"
 
 const HeroSection = () => {
 
     return(
         <>
-        <div class=" pt-32  relative before:opacity-[.2] overflow-hidden before:absolute before:top-0 before:left-1/2 before:bg-no-repeat before:bg-top before:bg-cover before:w-full before:h-full before:-z-[1] before:transform before:-translate-x-1/2 before:bg-[url('https://i.ibb.co/DRRGgXZ/Website-Art.jpg')]">
+        <div class="pt-28  relative before:opacity-[.2] overflow-hidden before:absolute before:top-0 before:left-1/2 before:bg-no-repeat before:bg-top before:bg-cover before:w-full before:h-full before:-z-[1] before:transform before:-translate-x-1/2 before:bg-[url('https://i.ibb.co/DRRGgXZ/Website-Art.jpg')]">
         <div class="max-w-[85rem] h-[85vh] mx-auto px-4 sm:px-6 lg:px-8 pt-36 ">
+
+            <CountDown />
 
             <div class="mt-5 max-w-2xl text-center mx-auto">
             <h1 class="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
