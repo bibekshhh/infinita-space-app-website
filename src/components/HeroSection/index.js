@@ -14,7 +14,7 @@ const HeroSection = () => {
             </div>
 
             <div class="mt-5 max-w-3xl text-center mx-auto">
-            <p class="text-lg text-gray-600 dark:text-gray-400">Preline UI is an open-source set of prebuilt UI components, ready-to-use examples and Figma design system based on the utility-first Tailwind CSS framework.</p>
+            <p class="text-lg text-gray-600 dark:text-gray-400">Embark on a Journey of Innovation and Exploration at the NASA Space App Challenge – Where Enthusiasts, Coders, and Dreamers Unite to Solve Cosmic Mysteries, Build Cutting-Edge Apps, and Shape the Future of Space Technology for the Betterment of Our Planet and Beyond.</p>
             </div>
 
             <div class="mt-8 grid gap-3 w-full sm:inline-flex sm:justify-center">

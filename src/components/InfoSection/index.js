@@ -10,6 +10,7 @@ const InfoSection = ({ id,
     headline,
     description,
     buttonLabel,
+    RegLink,
     imgStart,
     img,
     alt,
@@ -28,7 +29,7 @@ const InfoSection = ({ id,
                                 <Subtitle darkText={darkText}>{description}</Subtitle>
                                 <BtnWrap>
                                     <Button
-                                        to="home"
+                                        onClick={()=> window.location.assign(RegLink)}
                                         smooth={true}
                                         duration={500}
                                         spy={true}
