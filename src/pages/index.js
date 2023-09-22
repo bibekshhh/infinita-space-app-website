@@ -35,6 +35,7 @@ const Home = () => {
             <Prizes />
             <Judges />
             <FAQs />
+            <ContactCards />
             <Footer />
         </>
     )
