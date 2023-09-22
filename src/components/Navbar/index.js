@@ -69,7 +69,7 @@ const Navbar = ({ toggle }) => {
                             exact="true"
                             offset={-80}
                             activeClass="active"
-                        >Problem Statements</NavLinks>
+                        >Themes</NavLinks>
                     </NavItem>
                     <NavItem>
                         <NavLinks to="prizes"
