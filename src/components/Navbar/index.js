@@ -6,7 +6,7 @@ import {
 } from "./NavbarElements"
 import Logo from "./Logo_Final.png"
 import { animateScroll as scroll } from "react-scroll";
-import Announcement from '../Announcement';
+// import Announcement from '../Announcement';
 
 const Navbar = ({ toggle }) => {
 

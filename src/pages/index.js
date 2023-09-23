@@ -11,8 +11,8 @@ import Prizes from "../components/Prizes";
 import Footer from '../components/Footer';
 
 import { homeObjOne } from '../components/InfoSection/Data';
-import Sponsors from '../components/Sponsors';
-import Judges from '../components/Judges';
+// import Sponsors from '../components/Sponsors';
+// import Judges from '../components/Judges';
 import FAQs from '../components/FAQs';
 import ContactCards from '../components/ContactCards/ContactCards';
 import Testimonials from '../components/Testimonials/Testimonials';

@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Wrapper, HeadingH1 } from "../Commons";
+import { Container, HeadingH1 } from "../Commons";
 import { FaSpaceShuttle } from "react-icons/fa";
 
 const ProblemStatements = () => {

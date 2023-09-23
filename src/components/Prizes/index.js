@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, HeadingH1, Wrapper } from "../Commons";
+import { Container, HeadingH1 } from "../Commons";
 
 const Prizes = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, HeadingH1 } from "../Commons"
+import { Container } from "../Commons"
 
 const FAQs = () => {
     return (
