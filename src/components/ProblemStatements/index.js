@@ -18,7 +18,7 @@ const ProblemStatements = () => {
               "Earth and Space",
             ].map((item, key) => (
               <div
-                class="w-full h-full bg-white shadow-lg rounded-lg p-5 dark:bg-[#161c26]"
+                class="w-full h-full hover:dark:bg-[#181f2b] hover:scale-105 transition ease-in-out shadow-lg rounded-lg p-5 dark:bg-[#161c26]"
                 key={key}
               >
                 <div class="flex flex-col items-left gap-x-4 mb-3">

@@ -5,7 +5,7 @@ const Prizes = () => {
   return (
     <>
       <Container id="prizes">
-        <HeadingH1>Things You Will Get</HeadingH1>
+        <HeadingH1>Things you will get</HeadingH1>
         <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
           <div class="max-w-4xl mx-auto">
             <div class="grid md:grid-cols-2 gap-8 lg:gap-16">

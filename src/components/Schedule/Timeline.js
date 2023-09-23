@@ -16,7 +16,7 @@ import CelebrationRoundedIcon from "@mui/icons-material/CelebrationRounded";
 import ComputerIcon from "@mui/icons-material/Computer";
 export default function CustomizedTimeline() {
 	return (
-		<Timeline position="alternate">
+		<Timeline position="alternate" >
 			<TimelineItem>
 				<TimelineOppositeContent
 					sx={{ m: "auto 0" }}
