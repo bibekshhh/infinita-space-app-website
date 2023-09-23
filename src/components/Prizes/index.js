@@ -6,7 +6,7 @@ const Prizes = () => {
     <>
       <Container id="prizes">
         <HeadingH1>Things you will get</HeadingH1>
-        <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto relative">
           <div class="max-w-4xl mx-auto">
             <div class="grid md:grid-cols-2 gap-8 lg:gap-16">
               <div class="space-y-8 lg:space-y-10">
@@ -141,13 +141,18 @@ const Prizes = () => {
                       Games and Telescope
                     </h3>
                     <p class="mt-1 text-gray-600 dark:text-gray-400">
-                      We will have different game sessions for refreshment and a
-                      night sky observation with telescope.
+                      We will have different gift winning game sessions like fast rubik's cube solver, type racer, small code war & mini puzzles for refreshment and a night sky observation with telescope.
+
                     </p>
                   </div>
                 </div>
               </div>
             </div>
+          </div>
+          <div className="absolute bottom-3 w-100% text-center">
+            <p class="mt-1 text-gray-600 dark:text-gray-400">
+              Note: No games will take more than 30 minutes.
+            </p>
           </div>
         </div>
       </Container>
