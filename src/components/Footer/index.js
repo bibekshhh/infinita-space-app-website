@@ -20,7 +20,7 @@ const Footer = () => {
                                     <SocialIconLink href="https://www.facebook.com/infinitaorg" target="_blank" aria-label="Facebook">
                                         <FaFacebook />
                                     </SocialIconLink>
-                                    <SocialIconLink href="ttps://instagram.com/infinitaorg" target="_blank" aria-label="Instagram">
+                                    <SocialIconLink href="https://instagram.com/infinitaorg" target="_blank" aria-label="Instagram">
                                         <FaInstagram />
                                     </SocialIconLink>
                                     <SocialIconLink href="https://www.linkedin.com/company/infinitaorg/" target="_blank" aria-label="LinkedIn">
