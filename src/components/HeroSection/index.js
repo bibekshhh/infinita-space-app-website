@@ -21,13 +21,18 @@ const HeroSection = () => {
             </div>
 
             <div class="mt-8 grid gap-3 w-full sm:inline-flex sm:justify-center">
-            <a class="inline-flex justify-center items-center gap-x-3 text-center px-12 bg-white text-black  border border-transparent text-sm font-medium rounded-full focus:outline-none focus:ring-2 focus:ring-[#DD210A] focus:ring-offset-2 focus:ring-offset-white py-3 px-4 dark:focus:ring-offset-gray-800" href="https://docs.google.com/forms/d/e/1FAIpQLSf2eWjqeOYi6tHNw70FSd_aKzCDkZ-QoJEuY1qVv1uBYWkijw/viewform">
-                Get started
-                <svg class="w-3 h-3" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                <path d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                </svg>
-            </a>
-            
+                <a class="inline-flex justify-center items-center gap-x-3 text-center font-semibold px-8 bg-white text-black  border border-transparent text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-[#DD210A] focus:ring-offset-2 focus:ring-offset-white py-3 dark:focus:ring-offset-gray-800" href="https://www.spaceappschallenge.org/2023/locations/bhaktapur/">
+                    Signup for Bhaktapur
+                    <svg class="w-3 h-3" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </a>
+                <a class="inline-flex justify-center items-center gap-x-3 text-center px-8 font-semibold bg-black text-white  border border-white text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-[#DD210A] focus:ring-offset-2 focus:ring-offset-white py-3 dark:focus:ring-offset-gray-800" href="https://docs.google.com/forms/d/e/1FAIpQLSf2eWjqeOYi6tHNw70FSd_aKzCDkZ-QoJEuY1qVv1uBYWkijw/viewform">
+                    Local Registration
+                    <svg class="w-3 h-3" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </a>
             </div>
 
         </div>

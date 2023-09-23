@@ -15,6 +15,7 @@ import Sponsors from '../components/Sponsors';
 import Judges from '../components/Judges';
 import FAQs from '../components/FAQs';
 import ContactCards from '../components/ContactCards/ContactCards';
+import Testimonials from '../components/Testimonials/Testimonials';
 
 const Home = () => {
 
@@ -34,6 +35,7 @@ const Home = () => {
             <Schedule />
             <ProblemStatements />
             <Prizes />
+            <Testimonials />
             {/* <Judges /> */}
             <FAQs />
             <ContactCards />

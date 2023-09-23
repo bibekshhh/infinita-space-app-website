@@ -21,7 +21,7 @@ const FAQs = () => {
             <div class="hs-accordion-group divide-y divide-gray-200 dark:divide-gray-700">
                 <div class="hs-accordion pb-3 active" id="hs-basic-with-title-and-arrow-stretched-heading-one">
                 <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-left text-gray-800 transition hover:text-gray-500 dark:text-gray-200 dark:hover:text-gray-400">
-                    What is a hackathon?
+                Who should participate in the Space Apps Challenge?
                     <svg class="hs-accordion-active:hidden block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-gray-400" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
                     </svg>
@@ -31,7 +31,7 @@ const FAQs = () => {
                 </button>
                 <div id="hs-basic-with-title-and-arrow-stretched-collapse-one" class="hs-accordion-content w-full overflow-hidden transition-[height] duration-300" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-one">
                     <p class="text-gray-600 dark:text-gray-400">
-                    A hackathon is an intensive event where individuals or teams collaborate to rapidly prototype and develop software or hardware projects, often in a competitive setting.
+                    Space Apps is for everyone, including those who have never “hacked" before! All passionate problem solvers, from students to life-long learners, are encouraged to join. While some of our challenges are technical, others ask you to use artistic skills, business acumen, or your imagination. In other words, you do not need to be a coder or data expert to be a part of the Space Apps Challenge. In fact, teams with the most diverse sets of skills are often the most successful!
                     </p>
                 </div>
                 </div>
@@ -89,7 +89,7 @@ const FAQs = () => {
 
                 <div class="hs-accordion pt-6 pb-3" id="hs-basic-with-title-and-arrow-stretched-heading-five">
                 <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-left text-gray-800 transition hover:text-gray-500 dark:text-gray-200 dark:hover:text-gray-400" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-five">
-                Can I join the hackathon as an individual, or do I need to be part of a team?
+                    Can I join the hackathon as an individual, or do I need to be part of a team?
                     <svg class="hs-accordion-active:hidden block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-gray-400" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
                     </svg>
@@ -106,7 +106,7 @@ const FAQs = () => {
 
                 <div class="hs-accordion pt-6 pb-3" id="hs-basic-with-title-and-arrow-stretched-heading-six">
                 <button class="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-left text-gray-800 transition hover:text-gray-500 dark:text-gray-200 dark:hover:text-gray-400" aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-six">
-                    What happens to hackathon projects after the event?
+                What is the theme of the 2023 Space Apps Challenge?
                     <svg class="hs-accordion-active:hidden block w-3 h-3 text-gray-600 group-hover:text-gray-500 dark:text-gray-400" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M2 5L8.16086 10.6869C8.35239 10.8637 8.64761 10.8637 8.83914 10.6869L15 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
                     </svg>
@@ -116,7 +116,7 @@ const FAQs = () => {
                 </button>
                 <div id="hs-basic-with-title-and-arrow-stretched-collapse-six" class="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-six">
                     <p class="text-gray-600 dark:text-gray-400">
-                    Successful projects may receive prizes and have the potential for further development or startup opportunities.
+                    This year's theme is "Explore Open Science Together" in collaboration with NASA Transform to Open Science (TOPS). This theme acknowledges 2023 as A Year of Open Science - as declared by NASA, the White House, and other Federal Agencies. 
                     </p>
                 </div>
                 </div>
