@@ -18,7 +18,7 @@ const ProblemStatements = () => {
               "Earth and Space",
             ].map((item, key) => (
               <div
-                class="w-full h-full hover:dark:bg-[#181f2b] hover:scale-105 transition ease-in-out shadow-lg rounded-lg p-5 dark:bg-[#161c26]"
+                class="w-full h-full hover:bg-[#181f2b] hover:scale-105 transition ease-in-out shadow-lg rounded-lg p-5 bg-[#161c26]"
                 key={key}
               >
                 <div class="flex flex-col items-left gap-x-4 mb-3">
@@ -26,12 +26,12 @@ const ProblemStatements = () => {
                     <FaSpaceShuttle color="#fff" size={40}/>
                   </div>
                   <div class="flex-shrink-0 mt-2">
-                    <h3 class="block text-xl font-bold text-gray-800 dark:text-white">
+                    <h3 class="block text-xl font-bold text-white">
                       {item}
                     </h3>
                   </div>
                 </div>
-                <p class="text-gray-600 dark:text-gray-400">
+                <p class="text-gray-400">
                   Create Project related to {item}.
                 </p>
               </div>

@@ -10,14 +10,14 @@ const HeroSection = () => {
             <CountDown />
 
             <div class="mt-5 max-w-2xl text-center mx-auto">
-            <h1 class="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
+            <h1 class="block font-bold  md:text-5xl lg:text-6xl text-gray-200">
                 Let's Build
                 <span class="bg-clip-text text-[#DD210A]"> Together</span>
             </h1>
             </div>
 
             <div class="mt-5 max-w-3xl text-center mx-auto">
-            <p class="text-lg text-gray-600 dark:text-gray-400">Embark on a Journey of Innovation and Exploration at the NASA Space App Challenge – Where Enthusiasts, Coders, and Dreamers Unite to Solve Cosmic Mysteries, Build Cutting-Edge Apps, and Shape the Future of Space Technology for the Betterment of Our Planet and Beyond.</p>
+            <p class="text-lg  text-gray-400">Embark on a Journey of Innovation and Exploration at the NASA Space App Challenge – Where Enthusiasts, Coders, and Dreamers Unite to Solve Cosmic Mysteries, Build Cutting-Edge Apps, and Shape the Future of Space Technology for the Betterment of Our Planet and Beyond.</p>
             </div>
 
             <div class="mt-8 grid gap-6 w-full sm:inline-flex sm:justify-center">
