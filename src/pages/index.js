@@ -26,6 +26,7 @@ const Home = () => {
 
     return (
         <>
+            <div className='w-full flex flex-col gap-y-3'>
             <Sidebar isOpen={isOpen} toggle={toggle} />
             <Navbar toggle={toggle} />
             <HeroSection />
@@ -37,6 +38,7 @@ const Home = () => {
             <FAQs />
             <ContactCards />
             <Footer />
+            </div>
         </>
     )
 }

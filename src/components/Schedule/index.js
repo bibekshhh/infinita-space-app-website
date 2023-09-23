@@ -6,8 +6,8 @@ import CustomizedTimeline from "./Timeline";
 const Schedule = () => {
     return (
         <>
-            <Container id="schedule" className="pt-10">
-                <HeadingH1 className='mb-8'>Schedule for the event</HeadingH1>
+            <Container id="schedule" >
+                <HeadingH1>Schedule for the event</HeadingH1>
                 <ScheduleWrapper>
                     <CustomizedTimeline />
                 </ScheduleWrapper>

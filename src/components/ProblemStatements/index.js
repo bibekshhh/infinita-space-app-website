@@ -5,7 +5,7 @@ import { FaSpaceShuttle } from "react-icons/fa";
 const ProblemStatements = () => {
   return (
     <>
-      <Container id="problem-statements" className="mt-10">
+      <Container id="problem-statements" >
         <HeadingH1>Themes for the hackathon</HeadingH1>
         <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
           <div class="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-6 md:gap-10 mt-[-30px]">
@@ -21,12 +21,12 @@ const ProblemStatements = () => {
                 class="w-full h-full bg-white shadow-lg rounded-lg p-5 dark:bg-[#161c26]"
                 key={key}
               >
-                <div class="flex items-center gap-x-4 mb-3">
-                  <div class="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-4 border-blue-50 bg-blue-100 dark:border-blue-900 dark:bg-blue-800">
-                    <FaSpaceShuttle color="#fff" />
+                <div class="flex flex-col items-left gap-x-4 mb-3">
+                  <div class="inline-flex justify-left items-center w-auto h-[62px] rounded-full ">
+                    <FaSpaceShuttle color="#fff" size={40}/>
                   </div>
-                  <div class="flex-shrink-0">
-                    <h3 class="block text-lg font-semibold text-gray-800 dark:text-white">
+                  <div class="flex-shrink-0 mt-2">
+                    <h3 class="block text-xl font-bold text-gray-800 dark:text-white">
                       {item}
                     </h3>
                   </div>

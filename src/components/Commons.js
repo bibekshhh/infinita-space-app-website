@@ -6,15 +6,15 @@ export const Container = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #010606;
-    padding-bottom: 30px;
+    background: #0D1117;
+    padding: 30px 0px;
 
     @media screen and (max-width: 768px) {
-        height: 1000px;
+        min-height: auto;
     }
 
     @media screen and (max-width: 480px) {
-        height: 1000px;
+        min-height: auto;
     }
 `
 
@@ -42,11 +42,10 @@ export const Wrapper = styled.div`
 `
 
 export const HeadingH1 = styled.h1`
-    font-size: 2rem;
+    font-size: 2.2rem;
     color: #fff;  
-    font-weight: 600 !important; 
+    font-weight: 700 !important; 
     margin-bottom: 20px;
-    font-weight: 700;
 
     @media screen and (max-width: 480px) {
         font-size: 2rem;
