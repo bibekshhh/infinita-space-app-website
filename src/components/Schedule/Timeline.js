@@ -23,7 +23,7 @@ export default function CustomizedTimeline() {
 					variant="body2"
 					color="white"
 				>
-					9:00 am
+					9:00 AM
 				</TimelineOppositeContent>
 				<TimelineSeparator>
 					<TimelineConnector sx={{ bgcolor: "primary.main" }} />
@@ -53,7 +53,7 @@ export default function CustomizedTimeline() {
 					variant="body2"
 					color="white"
 				>
-					9:15 am
+					9:15 AM
 				</TimelineOppositeContent>
 				<TimelineSeparator>
 					<TimelineConnector sx={{ bgcolor: "secondary.main" }} />
@@ -80,7 +80,7 @@ export default function CustomizedTimeline() {
 					variant="body2"
 					color="white"
 				>
-					9:45 am
+					9:45 AM
 				</TimelineOppositeContent>
 				<TimelineSeparator>
 					<TimelineConnector sx={{ bgcolor: "primary.main" }} />
