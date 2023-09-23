@@ -42,7 +42,7 @@ const ContactCards = () => {
                         </div>
                     </a>
 
-                    <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="https://discord.gg/Cj7SpDaV">
+                    <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-[#161c26] dark:border-gray-800" href="mailto:infinita.org@gmail.com">
                         <div class="p-4 md:p-5">
                             <div class="flex">
                                 <svg class="mt-1 shrink-0 w-5 h-5 text-gray-800 dark:text-gray-200" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
