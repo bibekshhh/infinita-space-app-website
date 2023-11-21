@@ -5,7 +5,7 @@ const HeroSection = () => {
     return(
         <>
         <div class="pt-4 sm:pt-8 md:pt-20 lg:pt-26 relative before:opacity-[.8] overflow-hidden before:absolute before:top-0 before:left-1/2 before:bg-no-repeat before:bg-top before:bg-cover before:w-full before:h-full before:-z-[1] before:transform before:-translate-x-1/2 before:bg-[url('https://education.github.com/external-assets/github-global-campus/img/hero_bg.2fff21e.svg')]">
-        <div class="max-w-[85rem] min-h-[95vh] lg:min-h-[88vh] mx-auto px-4 sm:px-6 lg:px-8 pt-6 ">
+        <div class="max-w-[85rem] min-h-[95vh] lg:min-h-[88vh] mx-auto px-4 sm:px-6 lg:px-8 pt-20 ">
 
             <CountDown />
 
